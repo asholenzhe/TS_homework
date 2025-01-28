@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "target": "ES2016",
+    "module": "es2015",
+    "lib": [
+      "es2016",
+      "dom"
+    ],
+    "moduleResolution":"node"
+  }
+}
